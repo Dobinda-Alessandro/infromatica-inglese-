@@ -24,6 +24,23 @@
 # devo mettere  <img src="immagini/no.jpg" il nome del folder 
 #           venecia.jpg        se metto immagine in un folder cosi posso mettere più immagini 
 # lista 
-# <ol> lista ordinata 
-#<ul> lista non ordinata 
-#<il> lista item elementi 
+# <ol> lista ordinata numera le cose 
+#<ul> lista non ordinata con il punto 
+#<li> lista item elementi 
+# oppure puo raggruppare stessa porzione  <div> bloccarla li , quando due cose non si allineano ma uno rimane diviso a meta , div tag ce li separa in blocchi, la devo mettere sulla cosa che voglio isolare 
+# <span> muovere una linea 
+# uso section tag <section> permette di raggruppare e renderlo più piccolo raggruppa le cose rende più facile la lettura del codice 
+# css 
+# div parentesi graffa    div  si cjiama selettore perche mi seleziona cosa cambiare come voglio 
+# color: red;    qui abbiamo property e posso dare i valori che voglio
+#font-family : Arial;
+#font-size: 24pt;
+# un altro parentesi graffa 
+# cambia le cose nel dive 
+# per fare un altro div do unaltro attributo a div 
+# <div class="ciao"> ciao a tutti</div>
+# in css , sostituisco div con . e il nome della classe che ho dato .ciao(id)
+# se suso #unique faccio una roba unica che non si ripete 
+# un elemento può avere solo un id esempio ciao sopra 
+#devo collegare htmnl con css scrivo <link rel="stylesheet" href="style.css"/>
+#insetire nella head 
