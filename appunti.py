@@ -44,3 +44,5 @@
 # un elemento può avere solo un id esempio ciao sopra 
 #devo collegare htmnl con css scrivo <link rel="stylesheet" href="style.css"/>
 #insetire nella head 
+# uso space around per dividere le due immigani 
+#img modifico la foto 
