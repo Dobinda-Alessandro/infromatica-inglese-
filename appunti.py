@@ -46,3 +46,6 @@
 #insetire nella head 
 # uso space around per dividere le due immigani 
 #img modifico la foto 
+# <hr> serve per fare una linea orizzontale
+# section serve per raggruppare per essre più chiaro 
+#centrare immagine mettere dentro un altro box e poi metterlo al centro
