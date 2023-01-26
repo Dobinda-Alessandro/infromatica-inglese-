@@ -1,17 +1,16 @@
-img {
-border-radius: 10%;
-width: 300px;
+h1  {
+text-align: center;
+margin-top: 3cm;
+    }
 
 
+.foto-centro {
+    display: flex;
+    justify-content:space-around;
+    
 }
 
- .image-box    {
-  display: flex;
-  justify-content: center;
- }
-
-
-h1  {
-   
+img {
+   border-radius: 10%;
 
 }
